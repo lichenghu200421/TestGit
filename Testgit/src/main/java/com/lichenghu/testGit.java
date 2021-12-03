@@ -5,6 +5,7 @@ public class testGit {
         System.out.println("hello testGit ...");
         System.out.println("First testGit ...");
         System.out.println("Second testGit ...");
-
+        System.out.println("master testGit ");
+        System.out.println("hot-fix testGit ");
     }
 }
