@@ -5,5 +5,9 @@ public class testGit {
         System.out.println("hello testGit ...");
         System.out.println("First testGit ...");
         System.out.println("Second testGit ...");
+        System.out.println("1");
+    }
+    public void testDemo01(){
+        System.out.println("123");
     }
 }
